@@ -53,7 +53,7 @@ const ClientList: React.FC = () => {
   return (
     <Container>
       <Typography variant="h4" gutterBottom>
-        Lista de Clientes
+        Lista De Clientes
       </Typography>
       <TableContainer component={Paper}>
         <Table>
